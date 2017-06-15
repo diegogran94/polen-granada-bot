@@ -6,4 +6,4 @@ install:
   - pip install pandas beautifulsoup4
 
 script:
-  - python script
+  - python script.py
